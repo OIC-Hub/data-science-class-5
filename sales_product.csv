@@ -1,0 +1,22 @@
+Product_ID,Product_Name,Category,Supplier,Quantity,Unit price($),Reorder_Level,Last_Update
+P001,HP laptop,electronics,jumia,11,1200,5,2025/01/01
+P002,,Electronics,Femtech,20,500,12,2025/01/08
+P003, HP keyboard,Electronics,jumia,21,50,10,2025/01/22
+P004,Infinix Phone,Electronics,Jumia,5,150,2,2025/01/30
+P005,iphone headphone,Electronics,femotech,30,100,20,2025/02/01
+P005,iphone headphone,Electronics,femotech,30,100,20,2025/02/01
+P006,tecno PHONE,Electronics,Jumia,7,120,2,2025/02/21
+P007,DELL LAPTOP,Electronics,Femtech,10,800,3,2025/02/28
+P008, accer LapTOP,Electronics,Femtech,12,750,4,2025/03/01
+P009,Dell Keyboard,Electronics,Jumia,19,30,2,2025/03/08
+P010,Tecno Tablet,Electronics,Femtech,14,200,11,2025/03/21
+P011,Itel PHONE,Electronics,Femtech,12,90,4,2025/03/28
+P012,tecno Headphone,Electronics,Femtech,15,25,2,2025/04/01
+P013,TELEVISION,Electronics,Femtech,5,550,2,2025/04/08
+P014,Remote,Electronics,Femtech,five,15,1,2025/04/21
+P015,oraimo Headphone,Electronics,Femtech,15,30,5,2025/04/28
+P016,samsung Laptop,Electronics,Jumia,5,1000,3,2025/05/01
+P017,Bulb,Electrical,Femtech,25,5,2,2025/05/08
+P018,samsung Phone,Electronics,juma,13,1000,4,2025/05/15
+P019,HP Laptop,Electronics,Femtech,8,950,3,2025/05/21
+P020,Dell Laptop,Electronics,Femtech,9,900,4,2025/05/28
